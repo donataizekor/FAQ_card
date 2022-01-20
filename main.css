@@ -3,7 +3,7 @@
 body{
     background: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
     background-repeat: no-repeat;
-    height: 100vh; /*expanding background to all screen*/
+    height: 100%; /*expanding background to all screen*/
 }
 
 .container{
